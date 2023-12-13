@@ -7,4 +7,4 @@ TODO: Your goal is to create a Fizz playground app.
  
  3) Navigate from each FeedItemView to FeedDetailView
  
-Please read TODOs in **all files** and finish TODOs. Submit your code github, and send the github link back to Fizz Team for review
+Please read TODOs in **all files** and finish TODOs. Submit your code github, and send the github link back to Fizz Team for review. There is no need to write any test for this interview purposes.
